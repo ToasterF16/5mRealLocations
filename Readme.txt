@@ -1,4 +1,4 @@
-This file replaces ALL Los Santos location and street names names with real-life Los Angeles or LA County locations.
+This file replaces ALL Los Santos location and street names with real-life Los Angeles or LA County locations.
 
 Blaine County street names will follow in the near future.
 
