@@ -6,6 +6,10 @@ View this google document to browse all name replacements: https://docs.google.c
 
 All streets are matching the LA Revo Road signs as well as real life orientation and location.
 
+streets.json is a required file for some helicam scripts with location display.
+
+The map ressource is a simple map with all new street names, the PLD ressources changes the displayed in-game names.
+
 To Do:
 LAPD / FIB and similar acronyms
 Blaine County
