@@ -4,6 +4,8 @@ Blaine County street names will follow in the near future.
 
 View this google document to browse all name replacements: https://docs.google.com/spreadsheets/d/192JbqgfQ2TA2buuRvvdvJjR5na7RHR2C/edit?usp=sharing&ouid=109576356974812539873&rtpof=true&sd=true
 
+All streets are matching the LA Revo Road signs as well as real life orientation and location.
+
 To Do:
 LAPD / FIB and similar acronyms
 Blaine County
